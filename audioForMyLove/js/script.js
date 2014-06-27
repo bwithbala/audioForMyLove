@@ -5,7 +5,8 @@
 
 var app = app || {};
 
-app.path = "assets/12 Everything Resolves.mp3";
+//app.path = "assets/12 Everything Resolves.mp3";
+app.path = "http://www.youtube.com/watch?v=02UXTA7pssI";
 
 // app.audio.play(); - This will play the music.
 // app.audio.pause(); - This will stop the music.
